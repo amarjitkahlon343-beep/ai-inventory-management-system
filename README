@@ -1,0 +1,18 @@
+ai-inventory-management/
+│
+├── src/
+│   ├── controllers/        # Java Servlets
+│   ├── models/             # Product, Order, User classes
+│   ├── dao/                # Database access layer
+│   └── ai/                 # AI prediction logic
+│
+├── WebContent/
+│   ├── index.html          # Main dashboard
+│   ├── css/                # Stylesheets
+│   ├── js/                 # JavaScript files
+│   └── pages/              # HTML pages
+│
+├── database/
+│   └── inventory_db.sql    # Database schema & sample data
+│
+└── README.md
